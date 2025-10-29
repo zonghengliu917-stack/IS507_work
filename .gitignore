@@ -1,0 +1,28 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Output files
+*.png
+*.jpg
+*.pdf
+*.html
+
+# OS specific
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor specific
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Output directory (optional, remove if you want to version control the outputs)
+/output/
