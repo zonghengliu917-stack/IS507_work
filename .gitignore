@@ -2,22 +2,5 @@
 .DS_Store
 **/.DS_Store
 
-# R相关
-.Rhistory
-.Rapp.history
-.RData
-.Ruserdata
-
-# 输出文件（通常不提交生成的结果）
-output/
-*.png
-*.pdf
-*.csv
-
-# 数据集（如果数据集很大，不应该提交）
-# dataset/
-
-# 临时文件
-*.tmp
-*.log
+#
 
