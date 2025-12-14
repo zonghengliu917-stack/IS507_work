@@ -1,12 +1,7 @@
-整理统一文件格式可以帮助大家更好的完成 IS507 的任务，同时如果presentation的话，拥有完整的代码集合也是比较方便的～
-
-需要做的事情:
-1. 对于需要用到的数据，我已经放在了dataset这个文件夹下面
-
-2. 对于每个人写的代码都应该在 src/自己的netid 这个目录下面，例如我的代码就是在 src/zliu134 这个文件夹下面。同时大家可以创建一个txt文档，名字就叫 rq，把自己的rq写在里面，可以看看我的例子。
-
-3. 对于每个代码的输出，大家需要写在 output/自己的netid 下面，可以看看我的代码结构，相当通俗易懂，避免了输出的东西到处都是。
-
-4. 最终需要上交的是 rmd file，到时候大家在 rmd这个文件夹下的那个文件后面追加自己的内容，就可以啦，这个rmdfile会帮我们生成最终的pdf报告。但是其中涉及图片生成的内容()，我们如果分开各自为战是没法完成这一部分的，这一步是最最最恶心人的。但是！！！！pdf的生成需要在rstudio中完成的，这个需要大家自己钻研一下～每个人都要确保自己部分的报告可以跑通
-
-5. 强烈推荐大家下载cursor，孩子用了都说好，对于代码，我们可以直接在聊天使用。例如你可以直接告诉他 "对于 @_你想指定的文件_ 做什么操作" 甚至可以直接 @ 自己的 rq.txt 让cursor照着生成答案就行了。
+R code and rmd file and report for IS507 group
+Team menbers:
+Jack Liu(Zongheng.Liu) zliu134
+Shaotong.Zhang sz87
+Jiaqi.Gao jiaqig11
+Liyi.Xu liyihsu2
+Yiming.Ma yiming44
